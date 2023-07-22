@@ -27,6 +27,7 @@ This website uses JSON to fetch all the data, including news like finance news, 
 # Technologies Used:
 
 • HTML, CSS for structuring and styling the website.
+
 • JavaScript for interactive functionality, data fetching, and content rendering.
 
 
