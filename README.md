@@ -2,6 +2,8 @@
 A news website that uses an API to show real-time news from around the world.
 You can always stay informed about the latest breaking news. Whether you're interested in politics, business, sports, or entertainment, you'll find everything you need on this news website.
 
+### DEMO:  https://globalbriefing.netlify.app/
+
 This website is updated every minute with the latest news from around the world. This means that users can always stay up-to-date on the latest news and events.
 
 It also allows users to filter the news by topic, source, or location. This makes it easy to find the news that you're interested in.
